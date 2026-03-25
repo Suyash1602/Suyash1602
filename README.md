@@ -116,15 +116,11 @@ Personal finance management application with full CRUD, visual dashboards, and r
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
 
-![Suyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suyash1602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyash1602&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Suyash1602&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyash1602&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=600)
 
 </div>
 
@@ -137,7 +133,7 @@ Personal finance management application with full CRUD, visual dashboards, and r
 | ☁️ AWS Certified Cloud Practitioner | Amazon Web Services | ✅ Certified |
 | 🤖 AWS Certified AI Practitioner | Amazon Web Services | ✅ Certified |
 | 🐍 PCEP — Certified Entry-Level Python Programmer | Python Institute | ✅ Certified |
-| 🐍 PCAP — Certified Associate Python Programmer | Python Institute | 🔄 Pursuing |
+
 
 ---
 
@@ -170,8 +166,6 @@ Cognizant Technology Solutions, Pune
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashkhandalkar04@gmail.com)
 
 ---
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Suyash1602&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"The Seeker of Wisdom — building the future, one commit at a time."*
 
