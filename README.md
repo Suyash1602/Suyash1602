@@ -120,7 +120,8 @@ Personal finance management application with full CRUD, visual dashboards, and r
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyash1602&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=600)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suyash1602&theme=tokyonight)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suyash1602&theme=tokyonight)
 
 </div>
 
